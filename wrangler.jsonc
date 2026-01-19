@@ -1,0 +1,14 @@
+{
+  "name": "pdf-secure-host",
+  "main": "index.js",
+  "compatibility_date": "2024-09-23",
+  "r2_buckets": [
+    {
+      "binding": "PDF_BUCKET",
+      "bucket_name": "pdfs"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
